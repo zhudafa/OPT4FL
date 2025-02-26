@@ -12,6 +12,7 @@ Optimization algorithm of federation learning
 ## Second-order Optimization
 ### Newton’s method
 * [2020_NIPS20] Distributed Newton Can Communicate Less and Resist Byzantine Workers. proceedings of the 34th International Conference on Neural Information Processing Systems, [paper](https://proceedings.neurips.cc/paper/2020/file/d17e6bcbcef8de3f7a00195cfa5706f1-Paper.pdf).
+* [2018_NIPS18]GIANT: Globally improved approximate newton method for distributed optimization. Advances in neural information processing systems, [paper](https://proceedings.neurips.cc/paper/2018/hash/dabd8d2ce74e782c65a973ef76fd540b-Abstract.html).
 * [2021] LocalNewton: Reducing Communication Bottleneck for Distributed Learning. arxiv, [paper](https://arxiv.org/abs/2105.07320).
 * [2021_ICML] Communication-efficient distributed optimization with quantized preconditioners. International conference on machine learning, [paper](https://proceedings.mlr.press/v139/alimisis21a.html).
 * [2022_ICML] FedNew: A Communication-Efficient and Privacy-Preserving Newton-Type Method for Federated Learning. In International conference on machine learning,[paper](https://proceedings.mlr.press/v162/elgabli22a/elgabli22a.pdf).
