@@ -9,12 +9,14 @@ Optimization algorithm of federation learning
 * [2018_NIPS] LAG: Lazily aggregated gradient for communication-efficient distributed learning.Advances in neural information processing systems, [paper](https://proceedings.neurips.cc/paper/2018/hash/feecee9f1643651799ede2740927317a-Abstract.html).
 * [2020_TWC] A joint learning and communications framework for federated learning over wireless networks.IEEE Transactions on Wireless Communications, [paper](https://ieeexplore.ieee.org/document/9210812).
 * [2020_TWC] Federated learning over wireless fading channels.IEEE Transactions on Wireless Communications, [paper](https://ieeexplore.ieee.org/abstract/document/9014530).
+* [2020_ICAIS]Fedpaq: A communication-efficient federated learning method with periodic averaging and quantization.International conference on artificial intelligence and statistics, [paper](https://proceedings.mlr.press/v108/reisizadeh20a).
 ### ADMM
 * [2021_TSP]  Fedpd: A federated learning framework with adaptivity to non-iid data. IEEE Transactions on Signal Processing, [paper](https://ieeexplore.ieee.org/abstract/document/9556559).
- * [2022_ICDE]  FedADMM: A robust federated deep learning framework with adaptivity to system heterogeneity. IEEE Transactions on Signal Processing, [paper](https://ieeexplore.ieee.org/abstract/document/9835545).
- * [2021_TPAMI]  Federated learning via inexact ADMM. IEEE Transactions on Signal Processing, [paper](https://ieeexplore.ieee.org/abstract/document/10040221).
+ * [2022_ICDE]  FedADMM: A robust federated deep learning framework with adaptivity to system heterogeneity. 2022 IEEE 38th International Conference on Data Engineering (ICDE), [paper](https://ieeexplore.ieee.org/abstract/document/9835545).
+ * [2021_TPAMI]  Federated learning via inexact ADMM. IEEE Transactions on Pattern Analysis and Machine Intelligence, [paper](https://ieeexplore.ieee.org/abstract/document/10040221).
  * [2019_TIFS]  DP-ADMM: ADMM-based distributed learning with differential privac. IEEE Transactions on Information Forensics and Security, [paper](https://ieeexplore.ieee.org/abstract/document/8772211).
 * [2018]  Recycled ADMM: Improve privacy and accuracy with less computation in distributed algorithmsa. 2018 56th Annual Allerton Conference on Communication, Control, and Computing (Allerton), [paper](https://ieeexplore.ieee.org/abstract/document/8635916).
+* [2024_JOTA] Seeking Consensus on Subspaces in Federated Principal Component Analysis. Journal of Optimization Theory and Applications, [paper](https://ieeexplore.ieee.org/abstract/document/8635916).
 ## Second-order Optimization
 ### Newton’s method
 * [2020_NIPS20] Distributed Newton Can Communicate Less and Resist Byzantine Workers. proceedings of the 34th International Conference on Neural Information Processing Systems, [paper](https://proceedings.neurips.cc/paper/2020/file/d17e6bcbcef8de3f7a00195cfa5706f1-Paper.pdf).
