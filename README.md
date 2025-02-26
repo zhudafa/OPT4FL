@@ -16,7 +16,7 @@ Optimization algorithm of federation learning
  * [2021_TPAMI]  Federated learning via inexact ADMM. IEEE Transactions on Pattern Analysis and Machine Intelligence, [paper](https://ieeexplore.ieee.org/abstract/document/10040221).
  * [2019_TIFS]  DP-ADMM: ADMM-based distributed learning with differential privac. IEEE Transactions on Information Forensics and Security, [paper](https://ieeexplore.ieee.org/abstract/document/8772211).
 * [2018]  Recycled ADMM: Improve privacy and accuracy with less computation in distributed algorithmsa. 2018 56th Annual Allerton Conference on Communication, Control, and Computing (Allerton), [paper](https://ieeexplore.ieee.org/abstract/document/8635916).
-* [2024_JOTA] Seeking Consensus on Subspaces in Federated Principal Component Analysis. Journal of Optimization Theory and Applications, [paper](https://ieeexplore.ieee.org/abstract/document/8635916).
+* [2024_JOTA] Seeking Consensus on Subspaces in Federated Principal Component Analysis. Journal of Optimization Theory and Applications, [paper](https://dl.acm.org/doi/10.1007/s10957-024-02523-1).
 ## Second-order Optimization
 ### Newton’s method
 * [2020_NIPS20] Distributed Newton Can Communicate Less and Resist Byzantine Workers. proceedings of the 34th International Conference on Neural Information Processing Systems, [paper](https://proceedings.neurips.cc/paper/2020/file/d17e6bcbcef8de3f7a00195cfa5706f1-Paper.pdf).
