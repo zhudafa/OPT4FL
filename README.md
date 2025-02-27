@@ -31,8 +31,8 @@ Optimization algorithm of federated learning
 * [2022_TPDS] Done: Distributed approximate Newton-type method for federated edge learning. IEEE Transactions on Parallel and Distributed Systems, [paper](https://ieeexplore.ieee.org/abstract/document/9695269).
 * [2024_AUTO]Shed: A Newton-type algorithm for federated learning based on incremental hessian eigenvector sharing. Automatica,[paper](https://www.sciencedirect.com/science/article/pii/S0005109823006271).
 * [2024_AAAI] Fedns: A fast sketching newton-type algorithm for federated learning. In AAAI,[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29254),[code](https://github.com/superlj666/FedNS).
-* [2024] GP-FL: Model-Based Hessian Estimation for Second-Order Over-the-Air Federated Learning. arxiv, [paper](https://arxiv.org/abs/2412.03867).
+
 
 ### Quasi-Newton Method
 * [2025] Distributed Quasi-Newton Method for Fair and Fast Federated Learning. arxiv, [paper](https://arxiv.org/abs/2501.10877),[code](https://anonymous.4open.science/r/DQN-Fed-FDD2/README.md)
-* 
+* [2024] GP-FL: Model-Based Hessian Estimation for Second-Order Over-the-Air Federated Learning. arxiv, [paper](https://arxiv.org/abs/2412.03867).
