@@ -2,9 +2,9 @@
 Optimization algorithm of federated learning
 ## First-order Optimization
 ### FedAvg
+* [2017_AIS] Communication-Efficient Learning of Deep Networks from Decentralized Data. In Artificial intelligence and statistics, [paper](https://proceedings.mlr.press/v54/mcmahan17a?ref=https://githubhelp.com).
 * [2018_NIPS] LAG: Lazily aggregated gradient for communication-efficient distributed learning.Advances in neural information processing systems, [paper](https://proceedings.neurips.cc/paper/2018/hash/feecee9f1643651799ede2740927317a-Abstract.html).
 * [2019_AAAI] Parallel restarted SGD with faster convergence and less communication: Demystifying why model averaging works for deep learning, Proceedings of the AAAI conference on artificial intelligence, [paper](https://ojs.aaai.org/index.php/AAAI/article/view/4514).
-* [2017_AIS] Communication-Efficient Learning of Deep Networks from Decentralized Data. In Artificial intelligence and statistics, [paper](https://proceedings.mlr.press/v54/mcmahan17a?ref=https://githubhelp.com).
 * [2020_ICML] SCAFFOLD: Stochastic controlled averaging for federated learning. In International conference on machine learning, [paper](https://proceedings.mlr.press/v119/karimireddy20a.html).
 * [2020_PMLS_fedprox] Federated optimization in heterogeneous networks. Proceedings of Machine learning and systems, [paper](https://proceedings.mlsys.org/paper_files/paper/2020/hash/1f5fe83998a09396ebe6477d9475ba0c-Abstract.html).
 * [2020_TWC] A joint learning and communications framework for federated learning over wireless networks.IEEE Transactions on Wireless Communications, [paper](https://ieeexplore.ieee.org/document/9210812).
