@@ -10,9 +10,11 @@ Optimization algorithm of federated learning
 * [2020_TWC] A joint learning and communications framework for federated learning over wireless networks.IEEE Transactions on Wireless Communications, [paper](https://ieeexplore.ieee.org/document/9210812).
 * [2020_TWC] Federated learning over wireless fading channels.IEEE Transactions on Wireless Communications, [paper](https://ieeexplore.ieee.org/abstract/document/9014530).
 * [2020_ICAIS]Fedpaq: A communication-efficient federated learning method with periodic averaging and quantization.International conference on artificial intelligence and statistics, [paper](https://proceedings.mlr.press/v108/reisizadeh20a).
+* [2020_ICML] Scaffold: Stochastic controlled averaging for federated learning. International conference on machine learning, [paper](https://proceedings.mlr.press/v119/karimireddy20a.html).
+* [2021_ICAIS] Federated learning with compression: Unified analysis and sharp guarantees. International Conference on Artificial Intelligence and Statistics, [paper](https://proceedings.mlr.press/v130/haddadpour21a).
 ### ADMM
 * [2018]  Recycled ADMM: Improve privacy and accuracy with less computation in distributed algorithms. 2018 56th Annual Allerton Conference on Communication, Control, and Computing (Allerton), [paper](https://ieeexplore.ieee.org/abstract/document/8635916).
- * [2019_TIFS]  DP-ADMM: ADMM-based distributed learning with differential privac. IEEE Transactions on Information Forensics and Security, [paper](https://ieeexplore.ieee.org/abstract/document/8772211).
+ * [2019_TIFS]  DP-ADMM: ADMM-based distributed learning with differential privac. IEEE Transactions on Information Forensics and Security, [paper](https://ieeexplore.ieee.org/abstract/document/8772211),[code](https://github.com/litian96/FedDANE).
 * [2021_TSP]  Fedpd: A federated learning framework with adaptivity to non-iid data. IEEE Transactions on Signal Processing, [paper](https://ieeexplore.ieee.org/abstract/document/9556559).
  * [2022_ICDE]  FedADMM: A robust federated deep learning framework with adaptivity to system heterogeneity. 2022 IEEE 38th International Conference on Data Engineering (ICDE), [paper](https://ieeexplore.ieee.org/abstract/document/9835545).
  * [2023_TPAMI]  Federated learning via inexact ADMM. IEEE Transactions on Pattern Analysis and Machine Intelligence, [paper](https://ieeexplore.ieee.org/abstract/document/10040221).
@@ -21,6 +23,7 @@ Optimization algorithm of federated learning
 ### Newton’s method
 * [2020_NIPS20] Distributed Newton Can Communicate Less and Resist Byzantine Workers. proceedings of the 34th International Conference on Neural Information Processing Systems, [paper](https://proceedings.neurips.cc/paper/2020/file/d17e6bcbcef8de3f7a00195cfa5706f1-Paper.pdf).
 * [2018_NIPS18]GIANT: Globally improved approximate Newton method for distributed optimization. Advances in neural information processing systems, [paper](https://proceedings.neurips.cc/paper/2018/hash/dabd8d2ce74e782c65a973ef76fd540b-Abstract.html).
+* [2019_ACSSC] FedDANE: A Federated Newton-Type Method.2019 53rd Asilomar Conference on Signals, Systems, and Computers, [paper](https://ieeexplore.ieee.org/abstract/document/9049023).
 * [2021] LocalNewton: Reducing Communication Bottleneck for Distributed Learning. arxiv, [paper](https://arxiv.org/abs/2105.07320).
 * [2021_ICML] Communication-efficient distributed optimization with quantized preconditioners. International conference on machine learning, [paper](https://proceedings.mlr.press/v139/alimisis21a.html).
 * [2022_ICML] FedNew: A Communication-Efficient and Privacy-Preserving Newton-Type Method for Federated Learning. In International conference on machine learning,[paper](https://proceedings.mlr.press/v162/elgabli22a/elgabli22a.pdf).
