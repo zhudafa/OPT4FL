@@ -1,5 +1,5 @@
 # OPT4FL
-Optimization algorithm of federation learning
+Optimization algorithm of federated learning
 ## First-order Optimization
 ### FedAvg
 * [2017_AIS] Communication-Efficient Learning of Deep Networks from Decentralized Data. In Artificial intelligence and statistics, [paper](https://proceedings.mlr.press/v54/mcmahan17a?ref=https://githubhelp.com).
